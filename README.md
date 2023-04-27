@@ -1,7 +1,8 @@
 # webgl_react
 This is a minimal WebGL project built using React
 
---- Getting Started
+## Getting Started
+
 To run this project, first make sure you have Node.js and npm installed. Then, follow these steps:
 
 Clone this repository to your local machine.
